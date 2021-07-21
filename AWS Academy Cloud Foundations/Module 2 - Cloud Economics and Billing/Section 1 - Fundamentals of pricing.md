@@ -10,22 +10,31 @@ Outbound data transfer is aggregated across servicesand then charged at the outb
 
 This philosophy is what underlies AWS pricing. While the number and types of services offered by AWS have increased dramatically, our philosophy on pricing has not changed. At the end of each month, you pay for what you use. You can start or stop using a product at any time. No long-term contracts are required.
 AWS offers a range of cloud computing services. For each service, you pay for exactly the amount of resources that you actually need. This utility-style pricing model includes:
+
 • Pay for what you use
+
 • Pay less when you reserve
+
 • Pay less when you use more
+
 • Pay even less as AWS grows 
 
 ### Pay for what you use
 
 Unless you build data centers for a living, you might have spent too much time and money building them. With AWS, you pay only for the services that you consume with no large upfront expenses. You can lower variable costs, so you no longer need to dedicate valuable resources to building costly infrastructure, including purchasing servers, software licenses, or leasing facilities. 
+
 Quickly adapt to changing business needs and redirect your focus on innovation and invention by paying only for what you use and for as long as you need it. All AWS services are available on demand, require no long-term contracts, and have no complex licensing dependencies.
 
 ### Pay less when you reserve
 
 For certain services like AmazonElastic Compute Cloud (Amazon EC2) and Amazon Relational Database Service (Amazon RDS), you can invest in reserved capacity. With Reserved Instances, you can save up to 75 percent over equivalent on-demand capacity. Reserved Instances are available in three options:
+
 • All Upfront Reserved Instance (or AURI)
+
 • Partial Upfront Reserved Instance (or PURI)
+
 • No Upfront Payments Reserved Instance (or NURI)
+
 When you buy Reserved Instances, you receive a greater discount when you make alarger upfront payment. To maximize your savings, you can pay all upfront and receive the largest discount. Partial Upfront RIs offer lower discounts, but they give you the option to spend less upfront. Lastly, you can choose to spend nothing upfront and receive a smaller discount, which enables you to free capital to spend on other projects. By using reserved capacity, your organization can minimize risks, more predictably manage budgets, and comply with policies that require longer-term commitments.
 
 ### Pay less when you use more
@@ -52,12 +61,21 @@ To help new AWS customers get started in the cloud, AWS offers a free usage tier
 ## Service with no charge
 
 AWS also offers a variety of services for no additional charge.
+
 • Amazon Virtual Private Cloud (Amazon VPC)enables you to provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.
+
 • AWS Identity and Access Management (IAM)controls your users’ access to AWS services and resources.
+
 • Consolidated Billing is a billing feature in AWS Organizations to consolidate payment for multiple AWS accounts or multiple Amazon Internet Services Private Limited (AISPL) accounts. Consolidated billing provides:
+
     • One bill for multiple accounts.
+    
     • The ability to easily track each account’s charges.
+    
     • The opportunity to decrease charges as a result of volume pricing discounts from combined usage.
+    
     • And you can consolidate all of your accounts using Consolidated Billing and get tiered benefits.
+    
 • AWS Elastic Beanstalk is an even easier way for you to quickly deploy and manage applications in the AWS Cloud.
+
 • AWS CloudFormationgives developers and systems administrators an easy way to create a collection of related AWS resources and provision them in an orderly and predictable.
