@@ -31,6 +31,7 @@ When you compare an on-premises to cloud solution, it is important to accurately
 Customers gain certainty over pricing and are then able to readily calculate costs based on several different usage estimates.
 
 Compare this process to on-premises technology. Though they are sometimes difficult to determine, calculations of in-house costs must take into account all:
+
 • Direct costs that accompany running a server—like power, floor space, storage, and IT operations to manage those resources.
 • Indirect costs of running a server, like network and storage infrastructure.
 
