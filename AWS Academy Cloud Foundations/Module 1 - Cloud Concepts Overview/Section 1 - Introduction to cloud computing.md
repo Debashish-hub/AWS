@@ -31,12 +31,15 @@ As cloud computing has grown in popularity, several different service models and
 There are three main cloud service models. Each model represents a different part of the cloud computing stack and gives you a different level of control over your IT resources:
 
 <b>• Infrastructure as a service (IaaS): </b>
+
 Services in this category are the basic building blocks for cloud IT and typically provide you with access to networking features, computers (virtual or on dedicated hardware), and data storage space. IaaS provides you with the highest level of flexibility and management control over your IT resources. It is themost similar to existing IT resources that many IT departments and developers are familiar with today.
 
 <b>• Platform as a service (PaaS): </b>
+
 Services in this category reduce the need for you to manage the underlying infrastructure (usually hardware and operating systems) and enable you to focus on the deployment and management of your applications. 
 
 <b>• Software as a service (SaaS): </b>
+
 Services in this category provide you with a completed product that the service provider runs and manages. In most cases, software as a servicerefers to end-user applications. With a SaaS offering, you do not have to think about how the service is maintained or how the underlying infrastructure is managed. You need to think onlyabout how you plan to use that particular piece of software. A common example of a SaaS application is web-based email, where you can send and receive email without managingfeature additions to the email product or maintainingthe servers and operating systems that the email program runson.
 
 
@@ -45,12 +48,15 @@ Services in this category provide you with a completed product that the service 
 There are three main cloud computing deployment models, which represent the cloud environments that your applications can be deployed in:
 
 • Cloud: 
+
 A cloud-based application is fully deployed in the cloud, and all parts of the application run in the cloud. Applications in the cloud have either been created in the cloud or have been migrated from an existing infrastructure to take advantage of the benefits of cloud computing. Cloud-based applications can be built on low-level infrastructure pieces or they can use higher-level services that provide abstraction from the management, architecting, and scaling requirements of core infrastructure.
 
 • Hybrid: 
+
 A hybrid deployment is a way to connect infrastructure and applications between cloud-based resources and existing resources that are not located in the cloud. The most common method of hybrid deployment is between the cloud and existing on-premises infrastructure. Thismodel enables an organizationto extend and grow theirinfrastructure into the cloud while connecting cloud resources to internal systems. 
 
 • On-premises: 
+
 Deploying resources on-premises, using virtualization and resource management tools, is sometimes called private cloud. While on-premises deployment does not provide many of the benefits of cloud computing, it is sometimes sought for its ability to provide dedicated resources. In most cases, this deployment model is the same as legacy IT infrastructure, but itmight also use application management and virtualization technologies toincrease resource utilization
 
 ## Similarities between AWS and traditional IT
@@ -58,15 +64,23 @@ Deploying resources on-premises, using virtualization and resource management to
 There are many similarities between AWS and the traditional, on-premises IT space:
 
 • AWS security groups, network access control lists (network ACLs), and AWS Identity and Access Management (IAM) are similar to firewalls, access control lists (ACLs), and administrators.
+
 • Elastic Load Balancing and Amazon Virtual Private Cloud (Amazon VPC) are similar to routers, network pipelines, and switches.
+
 • Amazon Machine Images (AMIs) and Amazon Elastic Compute Cloud (Amazon EC2) instances are similar to on-premises servers.
+
 • Amazon Elastic Block Store (Amazon EBS), Amazon Elastic File System (Amazon EFS), Amazon Simple Storage Service (Amazon S3), and Amazon Relational Database Service (Amazon RDS) are similar to direct attached storage (DAS), storage area networks (SAN), network attached storage (NAS), and a relational database management service (RDBMS).
 
 With AWS services and features, you can do almost everything that you would want to do with a traditional data center
 
 Some keytakeaways from this section of the module include:
+
 • Cloud computing is the on-demand delivery of IT resources via the internet with pay-as-you-go pricing.
+
 • Cloud computing enables you to think of (and use) your infrastructure as software.
+
 • There are three cloud service models: IaaS, PaaS, and SaaS.
+
 • There are three cloud deployment models: cloud, hybrid, and on-premises or private cloud.
+
 • There are many AWS service analogs for the traditional, on-premises IT space.
